@@ -1,0 +1,24 @@
+{
+  "name": "my-press",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catchy0z/my-press.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catchy0z/my-press/issues"
+  },
+  "homepage": "https://github.com/catchy0z/my-press#readme",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
+}
